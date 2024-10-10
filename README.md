@@ -1,6 +1,6 @@
 # Examble For Desing README File 
 D Ahmad Abaas
-Majed 
+
 
 ## Installation
 
