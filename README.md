@@ -1,6 +1,6 @@
 # Examble For Desing README File 
-
-Foobar is a Python library for dealing with word pluralization.
+D Ahmad Abaas
+Majed 
 
 ## Installation
 
